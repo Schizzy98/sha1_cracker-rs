@@ -33,6 +33,5 @@ fn main() -> Result<(), Box<dyn Error>> {
         }
     }
     println!("Password was not found in wordlist.");
-
     Ok(())
 }
